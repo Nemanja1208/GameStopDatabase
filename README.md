@@ -1,0 +1,2 @@
+# GameStopDatabase
+Angular + API

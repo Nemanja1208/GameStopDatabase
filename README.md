@@ -1,6 +1,5 @@
-# GameStopDatabase
-# Build with Angular 11 + API
-## Used Angular CLI, SCSS, Angular-Material + Angular-gauge
+# GameStop Database App
+Angular 11, CLI, SCSS, Angular-Material + Angular-gauge
 
 ##Description
 
